@@ -123,10 +123,3 @@ Feel free to fork this repo, open issues, or submit pull requests!
 MIT License — free to use and modify.
 
 ---
-
-If you want, I can also:
-
-✅ Generate a **professional project logo**
-✅ Make a **GIF gameplay preview**
-✅ Create a **fancy README with emojis + CSS style badges**
-✅ Auto-generate **Markdown tables, code blocks, or images**
