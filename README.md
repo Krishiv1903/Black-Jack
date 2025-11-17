@@ -4,13 +4,6 @@ A simple, interactive, and visually engaging **Blackjack (21)** game built using
 
 ---
 
-## 🌟 Demo Screenshot
-
-> *(Replace the image with your actual screenshot)*
-> ![Blackjack Screenshot](https://via.placeholder.com/900x450.png?text=Blackjack+Game+Preview)
-
----
-
 ## 🚀 Features
 
 * ♠ **Fully functional Blackjack gameplay**
