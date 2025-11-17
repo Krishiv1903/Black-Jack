@@ -1,0 +1,62 @@
+body
+{
+    background: url(Background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h1
+{
+    color: white;
+}
+
+#hit,#stay,#reload
+{
+    background-color: #020202;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 4px;
+}
+
+#hit:hover,#stay:hover,#reload:hover
+{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    color: #020202;
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 4px;
+    transition: 950ms;
+    cursor: pointer;
+}
+
+#dealer-cards img
+{
+    height: 175px;
+    width: 125px;
+    margin: 5px;
+    border-radius: 4px;
+    border: none;
+}
+
+#your-cards img
+{
+    height: 175px;
+    width: 125px;
+    margin: 5px;
+}
+p
+{
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+}
+#button-space1
+{
+    padding-bottom: 0px;
+}

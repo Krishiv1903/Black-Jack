@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="apple-touch-icon" sizes="180x180" href="Logo/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="Logo/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="Logo/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+
+        <link rel="stylesheet" href="BlackJack.css">
+        <script src="BlackJack2.js"></script>
+
+
+        <title>Black Jack</title>
+    </head>
+    <body>
+        <!-- Dealers cards ka div -->
+        <h1>
+            Dealer: <span id="dealer-sum"></span>
+        </h1>
+        <div id="dealer-cards">
+            <img src="Cards/BACK.png" id="hidden">
+        </div>
+
+        <!-- Player ke cards ka div -->
+        <h1>
+            You: 
+            <span id="your-sum"></span>
+        </h1>
+        <div id="your-cards"></div>
+
+        <!-- For botton buttons -->
+        <br>
+        <button id="hit">Hit</button>
+        <button id="stay">Stay</button>
+        <button id="reload">Deal Again?</button>
+        <p id="results"></p>
+    </body>
+</html>
